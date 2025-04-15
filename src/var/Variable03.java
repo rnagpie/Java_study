@@ -22,7 +22,7 @@ public class Variable03 {
 		System.out.println(d2); // 3.14 
 		System.out.println(i3); // 3 강제 타입 변환시 소수점 0.14 손실
 		
-		//java 정수 -> ing 타입 인식
+		//java 정수 -> int 타입 인식
 		//java 실수 -> double 타입 인식
 		float f1 = 5.5f; //float 타입 = double 타입
 		
