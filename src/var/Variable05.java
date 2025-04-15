@@ -19,7 +19,7 @@ public class Variable05 {
 		
 		
 		int hour = 12;
-		int minute =36;
+		int minute = 36;
 		// 현재 12시 36분 입니다.
 		
 		// \" \' \\
@@ -36,7 +36,7 @@ public class Variable05 {
 		minute = 48;
 		double rate = 4.1515;
 		
-		System.out.printf("오늘 %-4d분에 점심으로 %10s를 먹고 은행 이자는 %6.2f%%더라~\n", menu,minute,rate);
+		System.out.printf("오늘 %-4d분에 점심으로 %10s를 먹고 은행 이자는 %6.2f%%더라~\n", minute, menu,rate);
 		       //  %d-정수-Integer  %s=-문자열-String  %f-실수-Float  
 	}
 	
