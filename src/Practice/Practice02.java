@@ -3,7 +3,7 @@ package Practice;
 public class Practice02 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		/*
 		1.
 		키보드를 가지고 있습니다. 키보드에 대한 여러 정보를 저장하고 싶은데
