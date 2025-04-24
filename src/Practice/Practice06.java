@@ -89,7 +89,7 @@ public class Practice06 {
 	
 		System.out.println("x="+x+ " y="+y);
 //		
-//		      
+//		      scanner.close();
 		
 	}
 

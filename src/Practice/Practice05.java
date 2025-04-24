@@ -63,6 +63,7 @@ public class Practice05 {
 		System.out.printf("빼기   %d-%d=%d \n", num1, num2, num1-num2);
 		System.out.printf("곱하기  %d*%d=%d \n", num1, num2, num1*num2);
 		System.out.printf("나누기  %d/%d=%f \n", num1, num2, (double)num1/num2);
+		scanner.close();
 	}
 
 }
